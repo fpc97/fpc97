@@ -1,6 +1,6 @@
 ## Hey there, I'm Francisco
 
-I'm a software engineer currently specializing in front-end web programming. I work mainly using React and its tooling *(such as Next.js)* but every now and then I allow myself to build something neat using pure HTML, CSS, and ES5 :)
+I'm a software engineer specialized in front-end web programming. I work mainly using React and its tooling *(such as Next.js)* but every now and then I allow myself to build something neat using pure HTML, CSS, and ES5 :)
 
 Right now I'm focusing my learning on back-end technologies, specifically NodeJS, Express, and MongoDB.
 
