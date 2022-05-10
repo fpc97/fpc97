@@ -4,4 +4,4 @@ I'm a software engineer specialized in front-end web programming. I work mainly 
 
 Right now I'm focusing my learning on back-end technologies, specifically NodeJS, Express, and SQL.
 
-You can reach me at fran.perez.cejuela@gmail.com or at [@fpece_](https://twitter.com/fpece_) on Twitter where I'm most of the time
+You can reach me at fran.perez.cejuela@gmail.com or at [@fpece_](https://twitter.com/fpece_) on Twitter where I'm most active
